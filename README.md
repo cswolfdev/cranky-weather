@@ -1,4 +1,4 @@
-# Snarky Weather
+# Cranky Weather
 
 Because you always wanted a weather app to be sassy with you.
 

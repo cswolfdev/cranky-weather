@@ -1,5 +1,6 @@
 
 const WeatherApp = () => {
+    const apiKey = import.meta.env.VITE_CRANKY_WEATHER_API_KEY
   return (
     <div className="container">
         <div className="weather-app">
